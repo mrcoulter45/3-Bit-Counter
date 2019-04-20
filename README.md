@@ -14,3 +14,5 @@ The 3-bit counter consists of:
   
 ![N](https://github.com/mrcoulter45/3-Bit-Counter/blob/master/Pictures/3-bit-counter-front.jpg)
 ![N](https://github.com/mrcoulter45/3-Bit-Counter/blob/master/Pictures/3-bit-counter-back.jpg)
+  
+  
