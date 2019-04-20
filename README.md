@@ -17,3 +17,9 @@ The 3-bit counter consists of:
   
 __________
   
+## 3-Bit Counter v1
+Here is the first version of the counter that I made with a PCB milling machine. It was much more difficult to make, in that I had to solder every pin on both sides of the PCB, as well as solder wires to both sides of the PCB for every via. It doesn't work so well because it doesn't have capacitors and the copper became very corroded over time.  
+![N](https://github.com/mrcoulter45/3-Bit-Counter/blob/master/Pictures/3-bit-counter-front-v1.jpg)
+![N](https://github.com/mrcoulter45/3-Bit-Counter/blob/master/Pictures/3-bit-counter-back-v1.jpg)
+__________  
+  
