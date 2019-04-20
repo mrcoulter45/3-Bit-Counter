@@ -10,6 +10,6 @@ The 3-bit counter consists of:
 - x2 100nf capacitors
 - PCB
   
-[![N|Solid](https://github.com/mrcoulter45/3-Bit-Counter/blob/master/Pictures/3-bit-counter.jpg)]
+![N](https://github.com/mrcoulter45/3-Bit-Counter/blob/master/Pictures/3-bit-counter.jpg)
 
 ![Alt Text](https://github.com/mrcoulter45/3-Bit-Counter/blob/master/Pictures/3-bit-counter.gif)
