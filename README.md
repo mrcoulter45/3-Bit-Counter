@@ -22,4 +22,18 @@ Here is the first version of the counter that I made with a PCB milling machine.
 ![N](https://github.com/mrcoulter45/3-Bit-Counter/blob/master/Pictures/3-bit-counter-front-v1.jpg)
 ![N](https://github.com/mrcoulter45/3-Bit-Counter/blob/master/Pictures/3-bit-counter-back-v1.jpg)
 __________  
-  
+
+---
+
+## 🎥 Video of 3-Bit Counter Logic Circuit
+
+<p align="center">
+  <a href="https://youtu.be/tnVruFOkVYI" target="_blank" style="text-decoration:none;">
+    <span style="position: relative; display: inline-block;">
+      <img src="https://img.youtube.com/vi/tnVruFOkVYI/0.jpg" 
+           alt="YouTube video thumbnail" width="480" 
+           style="border-radius:10px; display:block;">
+  </a>
+</p>
+
+---
